@@ -3,14 +3,7 @@
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
  */
-.tourist-spot{
-  color:blue !important;
-}
 
-.border-master{
-  border-style: solid;
-  border-color: green !important;
-}
 
 body {
   overflow-x: hidden; 
@@ -244,7 +237,7 @@ header.masthead .intro-text .intro-heading {
   position: relative;
   display: block;
   max-width: 400px;
-  margin: 0 auto;
+  margin: 0 auto ;
   cursor: pointer;
 }
 
@@ -287,6 +280,7 @@ header.masthead .intro-text .intro-heading {
   padding: 25px;
   text-align: center;
   background-color: #fff;
+  
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
